@@ -2,6 +2,8 @@
 
 **Borrow a Master, Keep the Tradition.** A living library of Madeiran skills, music and stories. Hackathon demo, 2026-11-20, demo at 16:00.
 
+**Live demo:** https://mestre-library.emergent.host/
+
 ## The idea in one line
 You borrow a grandpa or grandma *and* the tools of their craft. They teach you a Madeiran skill, the session is filmed with borrowed gear, and the lesson stays in the library for the next learner.
 
